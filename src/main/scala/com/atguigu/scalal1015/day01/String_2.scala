@@ -1,5 +1,7 @@
 package com.atguigu.scalal1015.day01
 
+import scala.io.StdIn
+
 /**
  * Author atguigu
  * Date 2020/3/2 14:15
@@ -30,6 +32,18 @@ aaaa
           |where date='$date'
           |""".stripMargin
         println(s)
+
+
+        val ss =
+            """
+              |你是水呢
+              |哈哈 1
+              |我就只到达
+              |
+              |大大加大
+              |""".stripMargin
+        println(ss)
+
     }
 }
 
