@@ -7,7 +7,7 @@ package com.atguigu.scalal1015
  */
 object ScalaLittleTest {
   def main(args: Array[String]): Unit = {
-
+    println("这是git的测试")
   }
 }
 
